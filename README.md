@@ -4,5 +4,3 @@
 **Authors**: Tommaso Baroni, Luca Bestagno
 
 **Dataset**: Electric Vehicle Temperature Dataset
-
-**Kaggle Link**: https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature
